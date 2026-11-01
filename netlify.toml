@@ -1,0 +1,8 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  # GEMINI_MODEL holds a public model name (also referenced in code.py), not a
+  # secret. GEMINI_API_KEY is still scanned and never shipped to the frontend.
+  SECRETS_SCAN_OMIT_KEYS = "GEMINI_MODEL"
