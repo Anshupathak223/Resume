@@ -1,0 +1,21 @@
+Job Title: Junior Python Developer
+
+Required Skills:
+- Python
+- SQL
+- REST APIs
+- Git
+
+Relevant Experience:
+- 1+ year of professional experience or substantial projects using Python
+
+Education:
+- Bachelor's degree in Computer Science, IT, or a related field
+
+Preferred Skills:
+- Flask or Django
+- Docker
+- Cloud basics (AWS/GCP)
+
+Certifications / Additional Evidence:
+- Any relevant certification, open-source contributions, or portfolio
